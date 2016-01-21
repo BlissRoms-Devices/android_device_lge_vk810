@@ -1,8 +1,7 @@
 [
  {
-   "
    "repository": "BlissRoms-Kernels/android_kernel_lge_vk810",
-   "target_path": "kernel/lge/vk810"
+   "target_path": "kernel/lge/vk810",
    "remote": "github",
    "revision": "mm6.0"
  }
