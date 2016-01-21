@@ -4,7 +4,7 @@
    "target_path": "kernel/lge/vk810",
    "remote": "github",
    "revision": "mm6.0"
- }
+ },
  {
     "remote": "github",
     "repository": "TheMuppets/proprietary_vendor_lge",
